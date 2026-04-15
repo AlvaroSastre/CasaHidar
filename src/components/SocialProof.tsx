@@ -24,25 +24,25 @@ export default function SocialProof() {
           >
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               <img 
-                src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80&w=600" 
+                src="https://lh3.googleusercontent.com/p/AF1QipMDeZkDY7gxEaAxjA_m_DLVcWaMzJYygnHMH-k7=w750-h606-p-k-no" 
                 alt="Interior" 
                 className="rounded-none w-full h-64 object-cover opacity-70 hover:opacity-100 transition-all duration-500 border border-white/10"
                 referrerPolicy="no-referrer"
               />
               <img 
-                src="https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&q=80&w=600" 
+                src="https://lh3.googleusercontent.com/p/AF1QipNU0pBSKClE16Kvd_IRvv14VBfvB548lznbAUnW=w750-h1235-p-k-no" 
                 alt="Food" 
                 className="rounded-none w-full h-64 object-cover opacity-70 hover:opacity-100 transition-all duration-500 border border-white/10"
                 referrerPolicy="no-referrer"
               />
               <img 
-                src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80&w=600" 
+                src="https://lh3.googleusercontent.com/p/AF1QipO-bZknjMWUE52d3JcKZoIJG3oVR971N2dEWOTf=w750-h606-p-k-no" 
                 alt="Platter" 
                 className="rounded-none w-full h-64 object-cover opacity-70 hover:opacity-100 transition-all duration-500 border border-white/10"
                 referrerPolicy="no-referrer"
               />
               <img 
-                src="https://images.unsplash.com/photo-1562601579-599dec554e8d?auto=format&fit=crop&q=80&w=600" 
+                src="https://lh3.googleusercontent.com/p/AF1QipP-4idy82giyu_K_ufh8gn9BrJAULkFhsWLtzxj=w750-h1235-p-k-no" 
                 alt="Dessert" 
                 className="rounded-none w-full h-64 object-cover opacity-70 hover:opacity-100 transition-all duration-500 border border-white/10"
                 referrerPolicy="no-referrer"
