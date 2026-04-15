@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Menu, X, UtensilsCrossed } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -29,11 +29,13 @@ export default function Navbar() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
-        <a href="#inicio" className="flex items-center gap-2 group">
-          <UtensilsCrossed className="w-8 h-8 text-gold" />
-          <span className="text-2xl font-serif font-light tracking-[0.2em] text-gold">
-            CASA HIDAR
-          </span>
+        <a href="#inicio" className="flex items-center group">
+          <img 
+            src="https://www.lomejordelbarrio.com/files/uploads/file/06ef55ed-ed64-4b99-9665-a781d9a66263/casa-hidar-restaurante-ensanche-de-vallecas-logo-1.png" 
+            alt="Casa Hidar Logo" 
+            className="h-12 md:h-16 w-auto object-contain brightness-110 contrast-110"
+            referrerPolicy="no-referrer"
+          />
         </a>
 
         {/* Desktop Nav */}
