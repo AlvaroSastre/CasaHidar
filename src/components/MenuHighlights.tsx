@@ -82,7 +82,7 @@ export default function MenuHighlights() {
 
         <div className="mt-16 text-center">
           <a 
-            href="/menu_casa_hidar.pdf" 
+            href="/menu_casa_hidar.pdf"
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-outline group inline-flex"
