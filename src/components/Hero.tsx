@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://elordenmundial.com/wp-content/uploads/2024/11/capital-turquia-estambul-ankara.jpg"
+          src="https://images.unsplash.com/photo-1605581810011-c6d684e7ca22?q=80&w=1138&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Turkish Cuisine Ambiance"
           className="w-full h-full object-cover scale-105 animate-slow-zoom opacity-60"
           referrerPolicy="no-referrer"
