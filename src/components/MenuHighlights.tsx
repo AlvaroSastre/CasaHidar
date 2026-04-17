@@ -7,7 +7,7 @@ export default function MenuHighlights() {
       title: "Pizzas",
       items: [
         { name: "Pizza Hidar", desc: "Salsa de tomate especial, mozzarella, champiñones, cebolla, maiz, aceitunas, salami y jamón york.", price: "11,9€", img: "https://lh3.googleusercontent.com/p/AF1QipOhU4FiFdSbypgqtUjR3YHQUYa27YsH9Soyjpgf=w750-h1235-p-k-no" },
-        { name: "Calzzone", desc: "Salsa de tomate especial, mozzarella, salami, champiñones, cebolla, tomate, pimientos y jamón york.", price: "11,9€", img: "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&q=80&w=400" }
+        { name: "Calzzone", desc: "Salsa de tomate especial, mozzarella, salami, champiñones, cebolla, tomate, pimientos y jamón york.", price: "11,9€", img: "https://lh3.googleusercontent.com/p/AF1QipPpo6PYVwmg9CqF39MCZMdXG7akO_TQH-_uZbmr=w750-h1235-p-k-no" }
       ]
     },
     {
