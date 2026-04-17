@@ -1,9 +1,9 @@
+/*
 import { motion } from 'motion/react';
 
 export default function Experience() {
   return (
     <section id="experiencia" className="relative py-32 overflow-hidden bg-charcoal text-cream border-b border-gold/10">
-      {/* Background Decorative Elements */}
       <div className="absolute top-0 right-0 w-96 h-96 bg-gold/5 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/2" />
       <div className="absolute bottom-0 left-0 w-96 h-96 bg-burgundy/5 rounded-full blur-[120px] translate-y-1/2 -translate-x-1/2" />
 
@@ -61,7 +61,6 @@ export default function Experience() {
               <div className="absolute inset-0 bg-gradient-to-t from-charcoal/80 via-transparent to-transparent" />
             </div>
             
-            {/* Floating Card */}
             <div className="absolute -bottom-10 -left-10 bg-gold p-8 rounded-none shadow-2xl text-charcoal max-w-xs hidden md:block border border-white/10">
               <p className="text-burgundy font-serif text-3xl mb-2 font-bold">98%</p>
               <p className="text-sm font-medium text-charcoal/80 leading-snug">
@@ -73,4 +72,9 @@ export default function Experience() {
       </div>
     </section>
   );
+}
+*/
+
+export default function Experience() {
+  return null;
 }
