@@ -13,8 +13,8 @@ export default function About() {
           >
             <div className="aspect-[4/5] rounded-none overflow-hidden shadow-2xl border border-white/10">
               <img 
-                src="https://images.unsplash.com/photo-1590577976322-3d2d6e2130ee?auto=format&fit=crop&q=80&w=800" 
-                alt="Turkish Chef Crafting Mezze" 
+                src="https://lh3.googleusercontent.com/p/AF1QipOK1lpjp7mYmiAje1MnDAKG3yKgcUZGzm8kAHtE=w750-h606-p-k-no" 
+                alt="Logo Casa Hidar" 
                 className="w-full h-full object-cover opacity-80"
                 referrerPolicy="no-referrer"
               />
