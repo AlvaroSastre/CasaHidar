@@ -81,10 +81,15 @@ export default function MenuHighlights() {
         </div>
 
         <div className="mt-16 text-center">
-          <button className="btn-outline group">
+          <a 
+            href="/menu_casa_hidar.pdf" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="btn-outline group inline-flex"
+          >
             Ver Menú Completo
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-          </button>
+          </a>
         </div>
       </div>
     </section>
