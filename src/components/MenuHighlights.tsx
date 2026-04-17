@@ -4,24 +4,24 @@ import { ArrowRight } from 'lucide-react';
 export default function MenuHighlights() {
   const categories = [
     {
+      title: "Pizzas",
+      items: [
+        { name: "Pizza Hidar", desc: "Salsa de tomate especial, mozzarella, champiñones, cebolla, maiz, aceitunas, salami y jamón york.", price: "11,9€", img: "https://lh3.googleusercontent.com/p/AF1QipOhU4FiFdSbypgqtUjR3YHQUYa27YsH9Soyjpgf=w750-h1235-p-k-no" },
+        { name: "Calzzone", desc: "Salsa de tomate especial, mozzarella, salami, champiñones, cebolla, tomate, pimientos y jamón york.", price: "11,9€", img: "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&q=80&w=400" }
+      ]
+    },
+    {
       title: "Entrantes",
       items: [
-        { name: "Hummus Tradicional", desc: "Garbanzos, tahini, limón y aceite de oliva virgen.", price: "8€", img: "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?auto=format&fit=crop&q=80&w=400" },
-        { name: "Mezze Platter", desc: "Selección de 5 aperitivos turcos con pan pita recién horneado.", price: "16€", img: "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&q=80&w=400" }
+        { name: "Alitas a la brasa", desc: "Carne picada de cordero especiada a la parrilla de carbón.", price: "10€", img: "https://lh3.googleusercontent.com/p/AF1QipPosyE2pQStJcsdYcnGbUSxAERW5wdYwmNhC0oY=w750-h606-p-k-no" },
+        { name: "Ensalada", desc: "Guiso de cordero sobre una cama de puré de berenjena ahumada.", price: "8,5€", img: "https://lh3.googleusercontent.com/p/AF1QipMFACZtB4bHN0h0wWk_9_44dwqIxibsTjzwBTDQ=w750-h606-p-k-no" }
       ]
     },
     {
-      title: "Platos Principales",
+      title: "Postres y bebidas",
       items: [
-        { name: "Adana Kebab", desc: "Carne picada de cordero especiada a la parrilla de carbón.", price: "22€", img: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80&w=400" },
-        { name: "Hünkar Beğendi", desc: "Guiso de cordero sobre una cama de puré de berenjena ahumada.", price: "24€", img: "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?auto=format&fit=crop&q=80&w=400" }
-      ]
-    },
-    {
-      title: "Postres",
-      items: [
-        { name: "Baklava de Pistacho", desc: "Hojaldre artesanal con miel y pistachos de Antep.", price: "9€", img: "https://images.unsplash.com/photo-1562601579-599dec554e8d?auto=format&fit=crop&q=80&w=400" },
-        { name: "Künefe", desc: "Postre de queso caliente con fideos de masa y almíbar.", price: "11€", img: "https://images.unsplash.com/photo-1517244681291-4d9d5dd6868d?auto=format&fit=crop&q=80&w=400" }
+        { name: "Baklava de Pistacho", desc: "Hojaldre artesanal con miel y pistachos de Antep.", price: "9€", img: "https://images.unsplash.com/photo-1617806501441-2a4a45c5316c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmFrbGF2YXxlbnwwfHwwfHx8MA%3D%3D" },
+        { name: "Bebidas", desc: "Postre de queso caliente con fideos de masa y almíbar.", price: "11€", img: "https://lh3.googleusercontent.com/p/AF1QipOeZ0wgk2TkjA7MiuS_Xu8MenUj5IDIUcucydAx=w750-h1235-p-k-no" }
       ]
     }
   ];
