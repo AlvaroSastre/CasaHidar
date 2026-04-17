@@ -3,7 +3,7 @@ import Hero from './components/Hero';
 import SocialProof from './components/SocialProof';
 import About from './components/About';
 import MenuHighlights from './components/MenuHighlights';
-import Experience from './components/Experience';
+//import Experience from './components/Experience';
 import ReservationForm from './components/ReservationForm';
 import Footer from './components/Footer';
 import { motion, useScroll, useSpring } from 'motion/react';
@@ -31,7 +31,7 @@ export default function App() {
         <SocialProof />
         <About />
         <MenuHighlights />
-        <Experience />
+        {/* <Experience /> */}
         <ReservationForm />
       </main>
 
