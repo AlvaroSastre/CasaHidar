@@ -30,7 +30,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-serif text-cream leading-[1.1] font-light">
-            El sabor de <span className="italic text-gold">Estambul</span> en el corazón de la capital
+            Un pedacito de <span className="italic text-gold">Turquía</span> en el corazón de <span className="italic text-gold">Vallecas</span>
           </h1>
 
           <p className="text-base md:text-lg text-text-muted font-light max-w-md leading-relaxed">
