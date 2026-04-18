@@ -36,6 +36,9 @@ export default function Navbar() {
             className="h-12 md:h-16 w-auto object-contain brightness-110 contrast-110"
             referrerPolicy="no-referrer"
           />
+          <span className="hidden sm:block text-gold text-[11px] font-medium uppercase tracking-[0.2em] border-l border-gold/30 pl-4">
+            Restaurante Turco 100% Halal
+          </span>
         </a>
 
         {/* Desktop Nav */}
