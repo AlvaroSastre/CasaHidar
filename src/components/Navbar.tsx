@@ -18,8 +18,8 @@ export default function Navbar() {
     { name: 'Inicio', href: '#inicio' },
     { name: 'Menú', href: '#menu' },
     { name: 'Nosotros', href: '#nosotros' },
-    { name: 'Experiencia', href: '#experiencia' },
-    { name: 'Contacto', href: '#contacto' },
+    //{ name: 'Experiencia', href: '#experiencia' },
+    //{ name: 'Contacto', href: '#contacto' },
   ];
 
   return (
