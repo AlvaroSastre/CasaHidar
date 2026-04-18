@@ -36,9 +36,8 @@ export default function Footer() {
             <ul className="space-y-4 text-sm text-text-muted font-light">
               <li><a href="#inicio" className="hover:text-gold transition-colors">Inicio</a></li>
               <li><a href="#menu" className="hover:text-gold transition-colors">Nuestra Carta</a></li>
-              <li><a href="#experiencia" className="hover:text-gold transition-colors">La Experiencia</a></li>
               <li><a href="#reservar" className="hover:text-gold transition-colors">Reservar Mesa</a></li>
-              <li><a href="#" className="hover:text-gold transition-colors">Eventos Privados</a></li>
+              <li><a href="#reservar" className="hover:text-gold transition-colors">Eventos Privados</a></li>
             </ul>
           </div>
 
