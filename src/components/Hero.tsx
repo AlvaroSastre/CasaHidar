@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { ChevronDown, Star } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
 
 export default function Hero() {
   return (
@@ -23,12 +23,6 @@ export default function Hero() {
           transition={{ duration: 0.8, ease: 'easeOut' }}
           className="flex flex-col items-start text-left gap-6 max-w-2xl"
         >
-          <div className="flex items-center gap-2 text-gold mb-2">
-            <span className="text-gold text-[11px] uppercase tracking-[0.3em] font-medium">
-              Gastronomía Turca en Madrid
-            </span>
-          </div>
-
           <h1 className="text-5xl md:text-7xl font-serif text-cream leading-[1.1] font-light">
             Un pedacito de <span className="italic text-gold">Turquía</span> en el corazón de <span className="italic text-gold">Vallecas</span>
           </h1>
