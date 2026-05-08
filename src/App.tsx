@@ -10,6 +10,7 @@ import Reviews from './components/Reviews';
 import Location from './components/Location';
 import Footer from './components/Footer';
 import { motion, useScroll, useSpring } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   const { scrollYProgress } = useScroll();
@@ -55,6 +56,8 @@ export default function App() {
           </svg>
         </a>
       </div>
+
+      <Analytics />
     </div>
   );
 }
