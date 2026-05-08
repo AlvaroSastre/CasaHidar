@@ -40,7 +40,7 @@ export const translations = {
       categories: {
         pizzas: 'Pizzas',
         starters: 'Entrantes',
-        dessertDrinks: 'Postres y Bebidas'
+        kebab: 'Kebab'
       },
       ctaFullMenu: 'Ver Carta Completa',
       items: {
@@ -60,13 +60,13 @@ export const translations = {
           name: 'Ensalada Casa Hidar',
           desc: 'Mezcla fresca con queso feta, falafel, aceitunas, huevo y nuestra salsa especial de la casa.'
         },
-        baklava: {
-          name: 'Backlava (Ración)',
-          desc: 'Cuatro unidades de nuestro hojaldre artesanal relleno de pistacho y almíbar.'
+        donerTernera: {
+          name: 'Döner de Ternera',
+          desc: 'Carne de ternera asada en torno giratorio, servida en pan de pita con vegetales frescos y nuestra salsa.'
         },
-        ayran: {
-          name: 'Ayran',
-          desc: 'Bebida tradicional turca a base de yogur, agua y una pizca de sal.'
+        donerPollo: {
+          name: 'Döner de Pollo',
+          desc: 'Carne de pollo marinada y asada, servida en pan de pita con lechuga, tomate y salsa especial.'
         }
       }
     },
@@ -225,7 +225,7 @@ export const translations = {
       categories: {
         pizzas: 'Pizzas',
         starters: 'Starters',
-        dessertDrinks: 'Desserts & Drinks'
+        kebab: 'Kebab'
       },
       ctaFullMenu: 'View Full Menu',
       items: {
@@ -245,13 +245,13 @@ export const translations = {
           name: 'Casa Hidar Salad',
           desc: 'Fresh mix with feta cheese, falafel, olives, egg, and our house special sauce.'
         },
-        baklava: {
-          name: 'Baklava (Portion)',
-          desc: 'Four units of our handcrafted puff pastry filled with pistachio and syrup.'
+        donerTernera: {
+          name: 'Beef Döner',
+          desc: 'Roasted beef on a vertical spit, served in pita bread with fresh vegetables and our sauce.'
         },
-        ayran: {
-          name: 'Ayran',
-          desc: 'Traditional Turkish drink made from yogurt, water, and a pinch of salt.'
+        donerPollo: {
+          name: 'Chicken Döner',
+          desc: 'Marinated and roasted chicken, served in pita bread with lettuce, tomato, and special sauce.'
         }
       }
     },
@@ -410,7 +410,7 @@ export const translations = {
       categories: {
         pizzas: 'Pizzalar',
         starters: 'Başlangıçlar',
-        dessertDrinks: 'Tatlılar ve İçecekler'
+        kebab: 'Kebap'
       },
       ctaFullMenu: 'Tüm Menüyü Gör',
       items: {
@@ -430,13 +430,13 @@ export const translations = {
           name: 'Casa Hidar Salatası',
           desc: 'Beyaz peynir, falafel, zeytin, yumurta ve ev yapımı özel sosumuzla hazırlanan taze karışım.'
         },
-        baklava: {
-          name: 'Baklava (Porsiyon)',
-          desc: 'Fıstık ve şerbetle hazırlanan dört adet el yapımı kat kat lezzet.'
+        donerTernera: {
+          name: 'Dana Döner',
+          desc: 'Döner ocağında pişen dana eti, pide ekmeği içinde taze sebzeler ve sosumuzla servis edilir.'
         },
-        ayran: {
-          name: 'Ayran',
-          desc: 'Yoğurt, su ve bir tutam tuzdan yapılan geleneksel Türk içeceği.'
+        donerPollo: {
+          name: 'Tavuk Döner',
+          desc: 'Marine edilmiş ve kızartılmış tavuk eti, marul, domates ve özel sosla pide ekmeğinde servis edilir.'
         }
       }
     },

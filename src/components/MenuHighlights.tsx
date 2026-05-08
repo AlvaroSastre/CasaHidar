@@ -16,15 +16,15 @@ export default function MenuHighlights() {
     {
       title: t.menu.categories.starters,
       items: [
-        { name: t.menu.items.wings.name, desc: t.menu.items.wings.desc, price: "11,00€", img: "https://lh3.googleusercontent.com/p/AF1QipPosyE2pQStJcsdYcnGbUSxAERW5wdYwmNhC0oY=w750-h606-p-k-no" },
+        { name: t.menu.items.wings.name, desc: t.menu.items.wings.desc, price: "13,70€", img: "https://lh3.googleusercontent.com/p/AF1QipPosyE2pQStJcsdYcnGbUSxAERW5wdYwmNhC0oY=w750-h606-p-k-no" },
         { name: t.menu.items.salad.name, desc: t.menu.items.salad.desc, price: "8,80€", img: "https://lh3.googleusercontent.com/p/AF1QipMFACZtB4bHN0h0wWk_9_44dwqIxibsTjzwBTDQ=w750-h606-p-k-no" }
       ]
     },
     {
-      title: t.menu.categories.dessertDrinks,
+      title: t.menu.categories.kebab,
       items: [
-        { name: t.menu.items.baklava.name, desc: t.menu.items.baklava.desc, price: "5,00€", img: "https://images.unsplash.com/photo-1617806501441-2a4a45c5316c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmFrbGF2YXxlbnwwfHwwfHx8MA%3D%3D" },
-        { name: t.menu.items.ayran.name, desc: t.menu.items.ayran.desc, price: "2,80€", img: "https://lh3.googleusercontent.com/p/AF1QipOeZ0wgk2TkjA7MiuS_Xu8MenUj5IDIUcucydAx=w750-h1235-p-k-no" }
+        { name: t.menu.items.donerTernera.name, desc: t.menu.items.donerTernera.desc, price: "6,50€", img: "/kebab1.png" },
+        { name: t.menu.items.donerPollo.name, desc: t.menu.items.donerPollo.desc, price: "6,50€", img: "/kebabP.png" }
       ]
     }
   ];
