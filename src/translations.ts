@@ -165,21 +165,27 @@ export const translations = {
       todos: 'todos',
       subtitle: 'La satisfacción de nuestros comensales es nuestra mayor recompensa.',
       rating: '4,2',
-      reviewsCount: '531 reseñas',
+      reviewsCount: '533 reseñas',
       items: [
         {
-          name: 'José Romero',
-          role: 'Local Guide',
-          stats: '83 reseñas · 272 fotos',
-          date: 'Hace 2 meses',
-          comment: 'Muy rico los platos combinados, súper completos y son como la foto, súper satisfechos, pedimos un durum y estaba súper rico también, la atención genial muy amables fuimos a las 22 y fueron muy amables y rápidos en servir, el pa que traen con el plato estaba rico',
-          category: 'Cena | 10-20 €'
+          name: 'Marcos Cáceres Rangel',
+          role: '1 reseña',
+          stats: '0 fotos',
+          date: 'Este mes',
+          comment: 'Conocí el restaurante por la página web, un ambiente muy acogedor y el servicio muy agradable.',
+          specificRatings: {
+            comida: '4/5',
+            servicio: '5/5',
+            ambiente: '4/5'
+          }
         },
         {
-          name: 'Adriana Milasan',
-          role: '3 reseñas · 3 fotos',
-          date: 'Hace 6 meses',
-          comment: 'Fui a Casa Hidar y pedí el plato de la casa... ¡una maravilla! La carne kebab estaba tierna y llena de sabor, el arroz en su punto, y la combinación con la ensalada y las patatas fue perfecta. Se nota que cuidan los detalles. Sin duda, repetiré pronto. ¡Totalmente recomendado!!!'
+          name: 'Jose Lopez',
+          role: '2 reseñas',
+          stats: '0 fotos',
+          date: 'Este mes',
+          comment: 'Todo perfecto, una pizza de 10 , sabores muy marcados y una atención muy buena, muy recomendable me ha sorprendido para bien',
+          category: 'Cena | 20-30 €'
         }
       ]
     }
@@ -350,21 +356,27 @@ export const translations = {
       everyone: 'Everyone',
       subtitle: 'The satisfaction of our guests is our greatest reward.',
       rating: '4.2',
-      reviewsCount: '531 reviews',
+      reviewsCount: '533 reviews',
       items: [
         {
-          name: 'José Romero',
-          role: 'Local Guide',
-          stats: '83 reviews · 272 photos',
-          date: '2 months ago',
-          comment: 'Very tasty combined dishes, super complete and they are like the photo, super satisfied, we ordered a durum and it was super tasty too, great attention very friendly we went at 10pm and they were very friendly and fast in serving, the bread they bring with the dish was tasty',
-          category: 'Dinner | 10-20 €'
+          name: 'Marcos Cáceres Rangel',
+          role: '1 review',
+          stats: '0 photos',
+          date: 'This month',
+          comment: 'I found the restaurant through the website, a very cozy atmosphere and very nice service.',
+          specificRatings: {
+            food: '4/5',
+            service: '5/5',
+            atmosphere: '4/5'
+          }
         },
         {
-          name: 'Adriana Milasan',
-          role: '3 reviews · 3 photos',
-          date: '6 months ago',
-          comment: 'I went to Casa Hidar and ordered the house dish... a marvel! The kebab meat was tender and full of flavor, the rice at its point, and the combination with the salad and potatoes was perfect. You can tell they take care of the details. Without a doubt, I will repeat soon. Totally recommended!!!'
+          name: 'Jose Lopez',
+          role: '2 reviews',
+          stats: '0 photos',
+          date: 'This month',
+          comment: 'Everything perfect, a top-notch pizza, very distinct flavors and very good service, highly recommended, it surprised me for the better.',
+          category: 'Dinner | 20-30 €'
         }
       ]
     }
@@ -535,21 +547,27 @@ export const translations = {
       everyone: 'Herkes',
       subtitle: 'Konuklarımızın memnuniyeti bizim en mayor ödülümüzdür.',
       rating: '4,2',
-      reviewsCount: '531 yorum',
+      reviewsCount: '533 yorum',
       items: [
         {
-          name: 'José Romero',
-          role: 'Yerel Rehber',
-          stats: '83 yorum · 272 fotoğraf',
-          date: '2 ay önce',
-          comment: 'Kombine yemekler çok lezzetli, süper eksiksiz ve fotoğraftaki gibiler, süper memnun kaldık, bir dürüm sipariş ettik ve o da süper lezzetliydi, harika ilgi çok cana yakın saat 22:00\'de gittik ve çok cana yakın ve hızlı servis yaptılar, yemekle birlikte getirdikleri ekmek lezzetliydi',
-          category: 'Akşam Yemeği | 10-20 €'
+          name: 'Marcos Cáceres Rangel',
+          role: '1 yorum',
+          stats: '0 fotoğraf',
+          date: 'Bu ay',
+          comment: 'Restoranı internet sitesi aracılığıyla tanıdım, çok sıcak bir atmosfer ve servis çok cana yakın.',
+          specificRatings: {
+            yemek: '4/5',
+            servis: '5/5',
+            ortam: '4/5'
+          }
         },
         {
-          name: 'Adriana Milasan',
-          role: '3 yorum · 3 fotoğraf',
-          date: '6 ay önce',
-          comment: 'Casa Hidar\'a gittim ve evin yemeğini sipariş ettim... tam bir harika! Kebap eti yumuşak ve lezzet doluydu, pirinç tam kıvamındaydı ve salata ile patates kombinasyonu mükemmeldi. Detaylara önem verdikleri belli oluyor. Hiç şüphesiz en kısa zamanda tekrar geleceğim. Kesinlikle tavsiye ederim!!!'
+          name: 'Jose Lopez',
+          role: '2 yorum',
+          stats: '0 fotoğraf',
+          date: 'Bu ay',
+          comment: 'Her şey mükemmel, 10 numara bir pizza, çok belirgin tatlar ve çok iyi bir ilgi, kesinlikle tavsiye ederim, beni olumlu yönde şaşırttı.',
+          category: 'Akşam Yemeği | 20-30 €'
         }
       ]
     }

@@ -91,6 +91,17 @@ export default function Reviews() {
                 <p className="text-xs text-cream/90 leading-normal font-light">
                   {review.comment}
                 </p>
+
+                {review.specificRatings && (
+                  <div className="flex flex-wrap gap-x-4 gap-y-1 pt-2 border-t border-white/5">
+                    {Object.entries(review.specificRatings).map(([key, value]) => (
+                      <div key={key} className="text-[10px] text-text-muted flex items-center gap-1">
+                        <span className="capitalize">{key}:</span>
+                        <span className="text-gold font-medium">{value as string}</span>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </motion.div>
             ))}
           </div>
