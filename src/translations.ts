@@ -165,27 +165,23 @@ export const translations = {
       todos: 'todos',
       subtitle: 'La satisfacción de nuestros comensales es nuestra mayor recompensa.',
       rating: '4,2',
-      reviewsCount: '533 reseñas',
+      reviewsCount: '538 reseñas',
       items: [
         {
-          name: 'Marcos Cáceres Rangel',
-          role: '1 reseña',
-          stats: '0 fotos',
-          date: 'Este mes',
-          comment: 'Conocí el restaurante por la página web, un ambiente muy acogedor y el servicio muy agradable.',
-          specificRatings: {
-            comida: '4/5',
-            servicio: '5/5',
-            ambiente: '4/5'
-          }
+          name: 'Daniel Albarracín Ferreiro',
+          role: 'Local Guide',
+          stats: '53 reseñas · 2 fotos',
+          date: 'El mes pasado',
+          comment: 'Me encantó, gente muy amable y todo muy rico',
+          category: 'Comida | 10-20 €'
         },
         {
-          name: 'Jose Lopez',
-          role: '2 reseñas',
-          stats: '0 fotos',
-          date: 'Este mes',
-          comment: 'Todo perfecto, una pizza de 10 , sabores muy marcados y una atención muy buena, muy recomendable me ha sorprendido para bien',
-          category: 'Cena | 20-30 €'
+          name: 'Monica Aguilar Chevez',
+          role: '3 reseñas',
+          stats: '2 fotos',
+          date: 'El mes pasado',
+          comment: 'Es una comida excelente te súper llenas y la atención es muy buena un lugar súper limpio me gusta.',
+          category: 'Comida | 10-20 €'
         }
       ]
     }
@@ -356,27 +352,23 @@ export const translations = {
       everyone: 'Everyone',
       subtitle: 'The satisfaction of our guests is our greatest reward.',
       rating: '4.2',
-      reviewsCount: '533 reviews',
+      reviewsCount: '538 reviews',
       items: [
         {
-          name: 'Marcos Cáceres Rangel',
-          role: '1 review',
-          stats: '0 photos',
-          date: 'This month',
-          comment: 'I found the restaurant through the website, a very cozy atmosphere and very nice service.',
-          specificRatings: {
-            food: '4/5',
-            service: '5/5',
-            atmosphere: '4/5'
-          }
+          name: 'Daniel Albarracín Ferreiro',
+          role: 'Local Guide',
+          stats: '53 reviews · 2 photos',
+          date: 'Last month',
+          comment: 'I loved it, very friendly people and everything was very tasty',
+          category: 'Food | 10-20 €'
         },
         {
-          name: 'Jose Lopez',
-          role: '2 reviews',
-          stats: '0 photos',
-          date: 'This month',
-          comment: 'Everything perfect, a top-notch pizza, very distinct flavors and very good service, highly recommended, it surprised me for the better.',
-          category: 'Dinner | 20-30 €'
+          name: 'Monica Aguilar Chevez',
+          role: '3 reviews',
+          stats: '2 photos',
+          date: 'Last month',
+          comment: 'It is excellent food, you get super full and the service is very good, a super clean place, I like it.',
+          category: 'Food | 10-20 €'
         }
       ]
     }
@@ -547,27 +539,23 @@ export const translations = {
       everyone: 'Herkes',
       subtitle: 'Konuklarımızın memnuniyeti bizim en mayor ödülümüzdür.',
       rating: '4,2',
-      reviewsCount: '533 yorum',
+      reviewsCount: '538 yorum',
       items: [
         {
-          name: 'Marcos Cáceres Rangel',
-          role: '1 yorum',
-          stats: '0 fotoğraf',
-          date: 'Bu ay',
-          comment: 'Restoranı internet sitesi aracılığıyla tanıdım, çok sıcak bir atmosfer ve servis çok cana yakın.',
-          specificRatings: {
-            yemek: '4/5',
-            servis: '5/5',
-            ortam: '4/5'
-          }
+          name: 'Daniel Albarracín Ferreiro',
+          role: 'Yerel Rehber',
+          stats: '53 yorum · 2 fotoğraf',
+          date: 'Geçen ay',
+          comment: 'Bayıldım, çok cana yakın insanlar ve her şey çok lezzetliydi',
+          category: 'Yemek | 10-20 €'
         },
         {
-          name: 'Jose Lopez',
-          role: '2 yorum',
-          stats: '0 fotoğraf',
-          date: 'Bu ay',
-          comment: 'Her şey mükemmel, 10 numara bir pizza, çok belirgin tatlar ve çok iyi bir ilgi, kesinlikle tavsiye ederim, beni olumlu yönde şaşırttı.',
-          category: 'Akşam Yemeği | 20-30 €'
+          name: 'Monica Aguilar Chevez',
+          role: '3 yorum',
+          stats: '2 fotoğraf',
+          date: 'Geçen ay',
+          comment: 'Mükemmel bir yemek, acayip doyurucu ve hizmet çok iyi, son derece temiz bir yer, beğendim.',
+          category: 'Yemek | 10-20 €'
         }
       ]
     }
