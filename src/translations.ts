@@ -165,7 +165,7 @@ export const translations = {
       todos: 'todos',
       subtitle: 'La satisfacción de nuestros comensales es nuestra mayor recompensa.',
       rating: '4,2',
-      reviewsCount: '550 reseñas',
+      reviewsCount: '580 reseñas',
       items: [
         {
           name: 'Daniel Albarracín Ferreiro',
@@ -352,7 +352,7 @@ export const translations = {
       everyone: 'Everyone',
       subtitle: 'The satisfaction of our guests is our greatest reward.',
       rating: '4.2',
-      reviewsCount: '550 reviews',
+      reviewsCount: '580 reviews',
       items: [
         {
           name: 'Daniel Albarracín Ferreiro',
@@ -539,7 +539,7 @@ export const translations = {
       everyone: 'Herkes',
       subtitle: 'Konuklarımızın memnuniyeti bizim en mayor ödülümüzdür.',
       rating: '4,2',
-      reviewsCount: '550 yorum',
+      reviewsCount: '580 yorum',
       items: [
         {
           name: 'Daniel Albarracín Ferreiro',
